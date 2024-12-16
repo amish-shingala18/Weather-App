@@ -1,0 +1,11 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#3F51B5"/> <!-- Background color -->
+    <size
+        android:width="80dp"
+        android:height="80dp"/>
+    <corners android:radius="40dp"/> <!-- Makes it circular -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF"/> <!-- Optional: border color -->
+</shape>
